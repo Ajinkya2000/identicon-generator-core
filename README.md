@@ -7,8 +7,8 @@
 ## Installation
 
 1. Install elixir from [here](https://elixir-lang.org/install.html).
-2. Once installed, run `iex -S mix` from the terminal or command line.
-3. Install dependecies by running `mix deps.get`.
+2. Install dependecies by running `mix deps.get`. Process by installing `rebar` and `rebar3`.
+3. Once installed, run `iex -S mix` from the terminal or command line.
 4. You will be prompted with a shell. Type the following commands - 
 
 ```elixir
